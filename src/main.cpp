@@ -2,6 +2,9 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+
+#include <matplot/matplot.h>
+
 using namespace std;
 
 #include "DataCleaner.h"
@@ -10,6 +13,6 @@ using namespace std;
 
 
 int main(){
-
+    cout<<"?????"<<endl;
     return 0;
 }
