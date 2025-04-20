@@ -18,6 +18,7 @@ public:
 
     //modifies file member to remove null values and duplicate data entries
     void cleanData();
+    
 private:
     vector <vector<string>> _file;
 

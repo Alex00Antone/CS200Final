@@ -13,7 +13,7 @@ void Regression::generateEquation(){
 
 //returns equation
 vector<string> Regression::getEquation(){
-
+    return _equation;
 }
     
 //generates a summary of the model, with Sum of squares model vs sum of squares total, t-test statistics, p-statistics, etc.
