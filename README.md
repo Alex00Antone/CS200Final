@@ -1,6 +1,6 @@
 # cpp-linear-regression
 
-# features
+# Features
 - parses csv files
 - generates linear regression equation
 
